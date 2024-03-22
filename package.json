@@ -1,6 +1,7 @@
 {
   "name": "graphql-editor-monorepo",
   "version": "5.5.10",
+  "type": "module",
   "private": false,
   "license": "MIT",
   "description": "Visual node editor for GraphQL",
